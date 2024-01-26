@@ -1,0 +1,18 @@
+.background{
+    background-color: green;
+}
+.card-source{
+    background-color:bisque;
+    font-size: 12px;
+    padding: 5px;
+    text-align: center;
+}
+.card{
+    height: 600px;
+}
+.card-title{
+    height: 100px;
+}
+.card-text{
+    height: 200px;
+}
